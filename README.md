@@ -118,3 +118,10 @@ Kombinasi dengan scaler untuk preprocessing lengkap
 **Outlier Detection:** 277 baris (5.37%) dari total dataset
 
 ---
+
+👥 TEAM MEMBERS
+
+- Timothy Hosia Budianto (5025211098)
+- Dimas Aria Pujangga (5025211212)
+- Armadya Hermawan (5025211243)
+- Daffa Saskara (5025211249)
